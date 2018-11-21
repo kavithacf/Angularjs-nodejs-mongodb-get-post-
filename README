@@ -1,3 +1,4 @@
-Nodejs and mongodb connecting with port 3000
-post and get method user profile
-framwork with angularjs
+Angularjs nodejs with mongodb connecting with mongoose
+Application running on port 8080
+Run commend - node server.js
+connecting with mongodb 
